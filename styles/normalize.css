@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat';
+    background-color: #F5F7F6
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto
+}
+
+.container_1x {
+    width: 940px;
+    margin: 0 auto
+}
+
+.container_2x {
+    width: 1400px;
+    margin: 0 auto
+}
